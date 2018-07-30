@@ -6,7 +6,3 @@ It supports 32 and 64bit but requires absolute kernel addresses (see [offsets.c]
 
 
 poc was done by idler1984 https://github.com/idl3r/testcode
-
-
-notes:
-use android-ndk-r10e to build 
